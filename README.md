@@ -1,41 +1,66 @@
-# TEXTIFY 🖤⚡
+# TEXTIFY ⚡ OCR – Modern Masaüstü OCR Uygulaması
 
-Python ile geliştirilmiş modern ve minimal masaüstü OCR (Görüntüden Metne) uygulaması.  
-EXE sürümü sayesinde Python veya ek kütüphaneler kurmanıza gerek yok.
+**Textify**, Windows için geliştirilmiş modern, minimal ve kullanıcı dostu bir **masaüstü OCR (Görüntüden Metne) uygulamasıdır**.  
+EXE sürümü sayesinde Python veya ek kütüphaneler kurmadan çalışabilir.
 
-Textify, görüntülerden ve PDF dosyalarından metinleri hızlı bir şekilde çıkarabilmenizi sağlar. Uygulama, temiz bir koyu tema ve neon mavi vurguya sahip kullanıcı arayüzü sunar.
+Metin, URL veya PDF görsellerinden hızlı ve güvenilir şekilde metin çıkarmanızı sağlar.
 
 ---
 
 ## 🚀 Özellikler
 
-- Sürükle-Bırak dosya yükleme
-- Dosya seçerek manuel yükleme
-- JPG, PNG, JPEG ve PDF dosya desteği
-- Görsel önizleme
-- Hızlı OCR işlemi (Tesseract dahil EXE içinde paketlenmiş)
-- Çıkarılan metni kopyalama
-- .txt olarak kaydetme
-- Modern koyu arayüz
-- Basit ve hafif
+- 📌 Sürükle‑Bırak ile dosya yükleme  
+- 📌 Manuel dosya seçimi  
+- 📌 JPG, PNG, JPEG ve PDF desteği  
+- 📌 Görsel önizleme  
+- 🧠 hızlı OCR (Tesseract destekli)  
+- 📄 Çıkarılan metni kopyalama  
+- 💾 .txt olarak kaydetme  
+- 🌙 Modern koyu tema  
+- ⚡ Basit ve hafif yapı
 
 ---
 
-## 📦 Kurulum / Kullanım
+## 📦 Kurulum & Kullanım
 
-1. EXE dosyasını indirin: `Textify.exe`
-2. https://github.com/UB-Mannheim/tesseract/wiki linkine girip tesseract-ocr-w64-setup-5.5.0.20241111.exe yi indirip C:\Users\user\AppData\Local\Programs\Tesseract-OCR yoluna tesseractı kurun
-3. Dosyayı çift tıklayarak çalıştırın
-4. Görsel veya PDF dosyalarını sürükleyip bırakın veya "Dosya Seç" butonunu kullanın
-5. OCR sonucu metin, uygulama penceresinde görüntülenecektir
-6. Metni kopyalayabilir veya .txt olarak kaydedebilirsiniz
+1. **EXE’yi indir:** `Textify.exe`  
+2. Tesseract OCR’ı kurun:
+   - Aşağıdaki linkten Windows Tesseract yükleyiciyi indirin:  
+     https://github.com/UB‑Mannheim/tesseract/wiki  
+   - Kurulum yerini:  
+     `C:\Users\<KullanıcıAdı>\AppData\Local\Programs\Tesseract‑OCR` olarak bırakın  
+3. Textify.exe dosyasına çift tıklayarak çalıştırın  
+4. Görsellerinizi sürükleyip bırakın veya “Dosya Seç” ile yükleyin  
+5. OCR işlemi bittikten sonra metni görüntüleyin, kopyalayın veya kaydedin
 
-> **Not:** EXE sürümü tüm gerekli kütüphaneler ile paketlenmiştir. Python kurulumuna gerek yoktur.
+> **NOT:** Python kütüphaneleri EXE içinde paketlenmiştir. Python veya ek modül kurulumuna gerek yoktur. :contentReference[oaicite:1]{index=1}
+
+---
+
+## 🖼️ Ekran Görüntüleri
+
+<img width="1002" height="682" alt="Screenshot 2026-03-01 153716" src="https://github.com/user-attachments/assets/21e57a3d-7d35-4a90-b861-5e0ce814dc2c" />
+
+
+---
+
+## 🧠 Nasıl Çalışır?
+
+Textify, popüler açık kaynak OCR motoru **Tesseract OCR**’ı kullanarak görüntü ve PDF’lerdeki metni tanır. Tesseract, satır ve karakterleri algılayabilen güçlü ve açık kaynak bir OCR motorudur. :contentReference[oaicite:2]{index=2}
+
+---
+
+## 🧩 Kullanım Alanları
+
+- 📎 Dokümanları dijital metne çevirme  
+- 📲 E‑posta veya web için metin alma  
+- 📚 Fiziksel metin veya taramalar üzerinden hızlı OCR  
+- 🧠 Veri çıkarımı
 
 ---
 
 ## 📄 Lisans
 
-MIT Lisansı
+Bu proje **MIT Lisansı** ile lisanslanmıştır.
 
-Made with ⚡ by B1rKralDev
+Made with ❤️ by **B1rKralDev**
