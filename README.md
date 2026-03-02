@@ -33,7 +33,7 @@ Metin, URL veya PDF görsellerinden hızlı ve güvenilir şekilde metin çıkar
 4. Görsellerinizi sürükleyip bırakın veya “Dosya Seç” ile yükleyin  
 5. OCR işlemi bittikten sonra metni görüntüleyin, kopyalayın veya kaydedin
 
-> **NOT:** Python kütüphaneleri EXE içinde paketlenmiştir. Python veya ek modül kurulumuna gerek yoktur. :contentReference[oaicite:1]{index=1}
+> **NOT:** Python kütüphaneleri EXE içinde paketlenmiştir. Python veya ek modül kurulumuna gerek yoktur. 
 
 ---
 
@@ -46,7 +46,7 @@ Metin, URL veya PDF görsellerinden hızlı ve güvenilir şekilde metin çıkar
 
 ## 🧠 Nasıl Çalışır?
 
-Textify, popüler açık kaynak OCR motoru **Tesseract OCR**’ı kullanarak görüntü ve PDF’lerdeki metni tanır. Tesseract, satır ve karakterleri algılayabilen güçlü ve açık kaynak bir OCR motorudur. :contentReference[oaicite:2]{index=2}
+Textify, popüler açık kaynak OCR motoru **Tesseract OCR**’ı kullanarak görüntü ve PDF’lerdeki metni tanır. Tesseract, satır ve karakterleri algılayabilen güçlü ve açık kaynak bir OCR motorudur.
 
 ---
 
@@ -64,3 +64,4 @@ Textify, popüler açık kaynak OCR motoru **Tesseract OCR**’ı kullanarak gö
 Bu proje **MIT Lisansı** ile lisanslanmıştır.
 
 Made with ❤️ by **B1rKralDev**
+> **NOT:** Bu uygulama profösyonellere uygun olmaya bilir.Basit işler için uygundur
